@@ -30,4 +30,4 @@ Rival Fauzi
 
 ## Note
 
-There is no display in this code, for testng can use postman
+There is no display in this code, for testing can use postman
