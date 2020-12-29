@@ -16,13 +16,13 @@ npm start
     | app.js                   # App entry point
     | package-lock.json
     | package.json
+    | README.md
     ├── bin
     ├── models                 # Database models
     ├── node_modules
     ├── routes                 # Express route controllers for all the endpoints of the app
     ├── services               # The business logic is here
-    ├── views
-    └── README.md
+    └── views
 
 ## Contributor
 
